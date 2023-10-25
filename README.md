@@ -20,7 +20,7 @@ Are you tired of writer's block or the tedious process of manually crafting blog
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/Blog-Generator.git
+   git clone https://github.com/AdadAlShabab/Blog-Generator.git
    cd Blog-Generator-Using-Transformers-GPT2LMHeadModel
    ```
 
